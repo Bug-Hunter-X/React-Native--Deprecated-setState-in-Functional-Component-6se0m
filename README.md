@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native: using the deprecated `this.setState()` method within a functional component.  The `bug.js` file shows the problematic code, while `bugSolution.js` provides the corrected implementation using the `useState` hook.  This is a crucial fix for ensuring your React Native application remains up-to-date and functions correctly.
